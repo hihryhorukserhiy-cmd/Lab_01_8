@@ -1,0 +1,5 @@
+﻿  lab_1_8.cpp
+  Set.cpp
+C:\Users\hihry\OneDrive\Desktop\фізмат\2 курс\ООП\Student\PR1\lab_1_8\lab_1_8\lab_1_8.cpp(47,13): warning C4566: character represented by universal-character-name '\u2229' cannot be represented in the current code page (1251)
+  Generating Code...
+  lab_1_8.vcxproj -> C:\Users\hihry\OneDrive\Desktop\фізмат\2 курс\ООП\Student\PR1\lab_1_8\x64\Debug\lab_1_8.exe
